@@ -48,8 +48,8 @@ The reward rules are:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/reward-points-app.git
-cd reward-points-app
+git clone https://github.com/UdayKumar199902/ui-customer-rewards.git
+cd ui-customer-rewards
 ```
 
 ### 2. Install Dependencies
